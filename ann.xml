@@ -63,7 +63,7 @@
 <!-- doll, dolly, nukke: a small replica of a person; used as a toy -->
 <annotation type="man-ann" lang="fi" anchor="eikä" anchor-positions="from_id=fi-tok&amp;char=86&amp;token=11" lemma="eikä" wnlemma="ei" wordnets="fin qf2 qwf" lemma-path="whole">not.r.01 ei.r.02</annotation>
 <!-- ei, not, non: negation of a word or group of words -->
-<!-- XXX: ei_kukaan -->
+<!-- XXX: idiom: ei_kukaan -->
 <annotation type="man-ann" lang="fi" anchor="osannut" anchor-positions="from_id=fi-tok&amp;char=98&amp;token=13" lemma="osannut" wnlemma="osata" wordnets="fin qf2" lemma-path="whole">know.v.02 osata.v.02</annotation>
 <!-- know, osata: know how to do or perform something -->
 <annotation type="man-ann" lang="fi" anchor="epäillä" anchor-positions="from_id=fi-tok&amp;char=106&amp;token=14" lemma="epäillä" wnlemma="epäillä" wordnets="fin qf2 qwf" lemma-path="whole">suspect.v.03 epäillä.v.01</annotation>
